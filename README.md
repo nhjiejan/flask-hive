@@ -5,7 +5,7 @@ Flask web framework boilerplate to access [Apache Hive](https://hive.apache.org/
 *Twitter bootstrap and echarts js included*
 
 ### Prerequisites
-Install flask
+Install flask.
 > pip install flask
 
 Install impyla
